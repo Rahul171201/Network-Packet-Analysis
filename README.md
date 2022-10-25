@@ -15,7 +15,7 @@ All the network packets are visible on the top frame. Each network packet has de
 
 If we double click on the packet we can see a detailed information of the packet. We can see the Source port, Destination Port, Sequence Number, Network Protocol and other related information regarding the packet.
 
-<img src="https://user-images.githubusercontent.com/70642284/197698663-4290f571-31fa-4aa4-a48c-f28f6d2e1222.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="400" />  <img src="https://user-images.githubusercontent.com/70642284/197699050-dbca4055-0f66-48d6-85fe-53b9cc996a96.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="300" />
+<img src="https://user-images.githubusercontent.com/70642284/197698663-4290f571-31fa-4aa4-a48c-f28f6d2e1222.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="400" />  <img src="https://user-images.githubusercontent.com/70642284/197699050-dbca4055-0f66-48d6-85fe-53b9cc996a96.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
 
 There is a filter box on top of the window that can filter the network packets. To filter network packets according to a particular source or destination ip, type in :
 ```
